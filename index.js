@@ -13,7 +13,7 @@ module.exports = {
     parser: "@typescript-eslint/parser",
     project: ["tsconfig.app.json", "tsconfig.node.json"],
   },
-  plugins: ["import", "import-newlines"],
+  plugins: ["import"],
   rules: {
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": ["error"],
@@ -24,7 +24,6 @@ module.exports = {
           caseInsensitive: true,
           order: "asc",
         },
-        "newlines-between": "always",
       },
     ],
     "import/consistent-type-specifier-style": ["error", "prefer-top-level"],
