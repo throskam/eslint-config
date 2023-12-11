@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "ESLint shareable config",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "eslint",
     "config"
