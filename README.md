@@ -3,7 +3,7 @@
 ## Install
 
 ```
-npm install -D throskam/eslint-config @rushstack/eslint-patch
+npm install -D @throskam/eslint-config @rushstack/eslint-patch
 ```
 
 ## Usage
