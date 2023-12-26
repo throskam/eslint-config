@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/throskam/eslint-config/compare/eslint-config-v0.1.1...eslint-config-v0.1.2) (2023-12-26)
+
+
+### Features
+
+* enforce type as type definition instead of interface ([47791bd](https://github.com/throskam/eslint-config/commit/47791bdb878aa1f9dc146bae1f755c6f9cb5832e))
+
 ## [0.1.1](https://github.com/throskam/eslint-config/compare/eslint-config-v0.1.0...eslint-config-v0.1.1) (2023-12-11)
 
 
