@@ -28,6 +28,7 @@ module.exports = {
     ],
     "import/consistent-type-specifier-style": ["error", "prefer-top-level"],
     "sort-imports": ["error", { ignoreDeclarationSort: true }],
+    "@typescript-eslint/consistent-type-definitions": ["error", "type"],
   },
   settings: {
     "import/parsers": {
